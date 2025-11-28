@@ -32,7 +32,7 @@
 
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
-| [【开源代码】CubeWorld｜Unity教程，从安装到打开一个Github项目（以我的世界（仿）为例）](https://blog.csdn.net/qq_46106285/article/details/153692737) | pypi的库 |
+| [【开源代码】CubeWorld｜Unity教程，从安装到打开一个Github项目（以我的世界（仿）为例）](https://blog.csdn.net/qq_46106285/article/details/153692737) | [CubeWorld](https://github.com/federicodangelo/CubeWorld) |
 | [【开源代码】cProfile+pstats｜Python分析代码运行时间](https://shandianchengzi.blog.csdn.net/article/details/152814545) | pypi的库 |
 | [【开源工具】VS Code Counter｜Github一键统计代码行数工具](https://shandianchengzi.blog.csdn.net/article/details/134198765) | [vscode-counter](https://github.com/uctakeoff/vscode-counter) |
 | [【开源工具】fanyi｜Vscode翻译插件推荐（无需浏览器）](https://shandianchengzi.blog.csdn.net/article/details/127190042) | [fanyi](https://github.com/wangrongding/fanyi) |
