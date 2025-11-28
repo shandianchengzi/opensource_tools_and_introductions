@@ -59,6 +59,7 @@
 
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
+| [【开源工具】Zotero_Item_Updater｜在 Zotero 中运行的 JavaScript 脚本，用于自动从 dblp 或 谷歌学术网站获取并解析首个 BibTeX 条目，以更新选中的文献信息](https://shandianchengzi.blog.csdn.net/article/details/155349548) | [Zotero_Item_Updater](https://github.com/shandianchengzi/Zotero_Item_Updater) |
 | [【开源工具】Get-Bibtex-from-Google-Scholar｜JS脚本自动获取bibtex到剪切板](https://shandianchengzi.blog.csdn.net/article/details/144936343) | [Get-Bibtex-from-Google-Scholar](https://github.com/IoTS-P/Get-Bibtex-from-Google-Scholar) |
 | [【开源工具】Get-Bibtex-from-Google-Scholar｜用Python批量从谷歌学术导出BibTex](https://shandianchengzi.blog.csdn.net/article/details/144896270) | [Get-Bibtex-from-Google-Scholar](https://github.com/IoTS-P/Get-Bibtex-from-Google-Scholar) |
 | [【开源工具】PDF2HTML_Samples｜Python 将 PDF 转 XML 或 HTML 的第三方库测评汇总](https://shandianchengzi.blog.csdn.net/article/details/138093382) | [PDF2HTML_Samples](https://github.com/shandianchengzi/PDF2HTML_Samples) |
