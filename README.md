@@ -1,6 +1,12 @@
 # opensource_tools_and_introductions
 我历年来使用并发布了博客的开源工具集锦。
 
+本仓库是受到这个仓库的启发：[https://github.com/Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)，此人收集了开源工具平替，我觉得很有意义。
+
+考虑到自己也收集了一些杂七杂八的，遂决定开一个合集。
+
+本README也会在[【记录】开源｜我历年来使用并发布了博客的开源工具集锦](https://shandianchengzi.blog.csdn.net/article/details/155348173)上同步更新。
+
 ## 📦 其他人的工具 (Others' Tools)
 
 ### 🎬 音视频、投屏与录制
