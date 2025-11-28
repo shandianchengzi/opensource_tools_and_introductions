@@ -32,6 +32,7 @@
 
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
+| [【开源代码】CubeWorld｜Unity教程，从安装到打开一个Github项目（以我的世界（仿）为例）](https://blog.csdn.net/qq_46106285/article/details/153692737) | pypi的库 |
 | [【开源代码】cProfile+pstats｜Python分析代码运行时间](https://shandianchengzi.blog.csdn.net/article/details/152814545) | pypi的库 |
 | [【开源工具】VS Code Counter｜Github一键统计代码行数工具](https://shandianchengzi.blog.csdn.net/article/details/134198765) | [vscode-counter](https://github.com/uctakeoff/vscode-counter) |
 | [【开源工具】fanyi｜Vscode翻译插件推荐（无需浏览器）](https://shandianchengzi.blog.csdn.net/article/details/127190042) | [fanyi](https://github.com/wangrongding/fanyi) |
@@ -43,6 +44,8 @@
 | :--- | :--- |
 | [【开源工具】怠惰小说下载器+东方永页机｜用JS脚本一键导出微信公众号文章数据](https://shandianchengzi.blog.csdn.net/article/details/144832598) | [UserScripts (DownloadAllContent)](https://github.com/hoothin/UserScripts/tree/master/DownloadAllContent)<br>[UserScripts (Pagetual)](https://github.com/hoothin/UserScripts/tree/master/Pagetual) |
 | [【开源工具】怠惰小说下载器+东方永页机｜JS脚本爬取四大安全顶会的论文摘要列表](https://shandianchengzi.blog.csdn.net/article/details/141404962) | [UserScripts (DownloadAllContent)](https://github.com/hoothin/UserScripts/tree/master/DownloadAllContent)<br>[UserScripts (Pagetual)](https://github.com/hoothin/UserScripts/tree/master/Pagetual) |
+
+### 
 
 ---
 
