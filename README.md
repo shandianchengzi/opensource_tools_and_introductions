@@ -74,12 +74,13 @@
 | [【开源代码】remove_comment_in_quicker｜用 Quicker 去除 Python 注释](https://shandianchengzi.blog.csdn.net/article/details/144809494) | [remove_comment_in_quicker](https://github.com/shandianchengzi/remove_comment_in_quicker) |
 | [【开源工具】mooc-copy-search｜用JS脚本复制粘贴中国大学MOOC网站的测试题和选项](https://shandianchengzi.blog.csdn.net/article/details/117947943) | [mooc-copy-search](https://github.com/shandianchengzi/mooc-copy-search) |
 
-### 🐍 Python 爬虫与自动化
+### 📊 Python 数据处理与可视化
 
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
 | [【开源工具】car_home_spider｜Scrapy对汽车之家二手车数据爬取、清洗与可视化](https://shandianchengzi.blog.csdn.net/article/details/140695820) | [car_home_spider](https://github.com/shandianchengzi/car_home_spider) |
 | [【开源工具】windows_word_decrypt｜Windows 批量尝试密码去打开加密的 Word 文档](https://shandianchengzi.blog.csdn.net/article/details/144888638) | [windows_word_decrypt](https://github.com/shandianchengzi/windows_word_decrypt) |
+| [【开源工具】tree_sitter_DataExtractor｜使用 Python3的 PyVis 完成神经网络数据集的可视化](https://shandianchengzi.blog.csdn.net/article/details/125638283)  | [tree_sitter_DataExtractor](https://github.com/shandianchengzi/tree_sitter_DataExtractor) |
 
 ### 🎮 算法与游戏开发
 
