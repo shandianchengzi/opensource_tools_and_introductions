@@ -72,6 +72,7 @@
 | [【开源工具】BiliFocus｜用JS脚本限制自己刷b站](https://shandianchengzi.blog.csdn.net/article/details/134913502) | [BiliFocus](https://github.com/shandianchengzi/BiliFocus) |
 | [【开源工具】任意视频倍速播放｜JS脚本网页任意视频倍速播放](https://shandianchengzi.blog.csdn.net/article/details/128323153) | [JS_any_video_speed_change](https://github.com/shandianchengzi/JS_any_video_speed_change) |
 | [【开源代码】remove_comment_in_quicker｜用 Quicker 去除 Python 注释](https://shandianchengzi.blog.csdn.net/article/details/144809494) | [remove_comment_in_quicker](https://github.com/shandianchengzi/remove_comment_in_quicker) |
+| [【开源工具】mooc-copy-search｜用JS脚本复制粘贴中国大学MOOC网站的测试题和选项](https://shandianchengzi.blog.csdn.net/article/details/117947943) | [mooc-copy-search](https://github.com/shandianchengzi/mooc-copy-search) |
 
 ### 🐍 Python 爬虫与自动化
 
