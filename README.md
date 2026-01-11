@@ -19,8 +19,7 @@
 | [【开源工具】FFmpeg｜压缩视频，500MB变25MB（有损，支持全平台）](https://shandianchengzi.blog.csdn.net/article/details/130340049) | [FFmpeg](https://github.com/FFmpeg/FFmpeg) |
 | [【开源工具】you-get ＋ ffmpeg｜视频下载+音频提取](https://shandianchengzi.blog.csdn.net/article/details/119838421) | [you-get](https://github.com/soimort/you-get)<br>[FFmpeg](https://github.com/FFmpeg/FFmpeg) |
 | [【开源工具】F_Record｜和画世界一样录制PS的画画过程的插件](https://shandianchengzi.blog.csdn.net/article/details/137632673) | [F_Record](https://github.com/F-know/F_Record) |
-| [【开源工具】F_Record｜和画世界一样录制PS的画画过程的插件](https://shandianchengzi.blog.csdn.net/article/details/137632673) | [F_Record](https://github.com/F-know/F_Record) |
-| [【开源工具】离线语音识别接入Quicker，冬天懒得打字甚至懒得动就这样｜CapsWriter-Offline-Windows-Edit](https://shandianchengzi.blog.csdn.net/article/details/156833033) | [CapsWriter-Offline-Windows-Edit]([https://github.com/F-know/F_Record](https://github.com/shandianchengzi/CapsWriter-Offline-Windows-Edit)) |
+| [【开源工具】离线语音识别接入Quicker，冬天懒得打字甚至懒得动就这样｜CapsWriter-Offline-Windows-Edit](https://shandianchengzi.blog.csdn.net/article/details/156833033) | [CapsWriter-Offline-Windows-Edit](https://github.com/shandianchengzi/CapsWriter-Offline-Windows-Edit) |
 
 ### 💻 系统增强、文件管理与安全
 
