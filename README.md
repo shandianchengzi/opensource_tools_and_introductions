@@ -14,6 +14,7 @@
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
 | [【开源工具】SonoBus｜将手机麦克风无线共享给PC台式机应急方案](https://shandianchengzi.blog.csdn.net/article/details/155270187) | [sonobus](https://github.com/sonosaurus/sonobus) |
+| [【记录】LosslessCut｜Linux 下配置开源无损剪辑软件](https://shandianchengzi.blog.csdn.net/article/details/161484479) | [lossless-cut](https://github.com/mifi/lossless-cut) |
 | [【开源工具】Sonobus｜局域网多台设备共享音频的全部方案探索过程](https://shandianchengzi.blog.csdn.net/article/details/155246385) | [sonobus](https://github.com/sonosaurus/sonobus) |
 | [【开源工具】Scrcpy｜安卓投屏电脑的开源工具Scrcpy的安装及看电视注意事项](https://shandianchengzi.blog.csdn.net/article/details/153839424) | [scrcpy](https://github.com/Genymobile/scrcpy) |
 | [【开源工具】FFmpeg｜压缩视频，500MB变25MB（有损，支持全平台）](https://shandianchengzi.blog.csdn.net/article/details/130340049) | [FFmpeg](https://github.com/FFmpeg/FFmpeg) |
@@ -26,6 +27,7 @@
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
 | [【开源工具】WinMerge｜十六进制/二进制编辑及对比最好的工具](https://shandianchengzi.blog.csdn.net/article/details/149914316) | [winmerge](https://github.com/WinMerge/winmerge) |
+| [【工具】DeskFlow｜跨设备共享鼠标键盘的安装和使用](https://shandianchengzi.blog.csdn.net/article/details/163207446) | [deskflow](https://github.com/deskflow/deskflow) |
 | [【开源工具】VeraCrypt｜开源磁盘加密工具 VeraCrypt 教程](https://shandianchengzi.blog.csdn.net/article/details/143570221) | [VeraCrypt](https://github.com/veracrypt/VeraCrypt) |
 | [【开源工具】Deskpins+WindowTop｜两款开源Windows桌面窗口管理小工具](https://shandianchengzi.blog.csdn.net/article/details/142415707) | [DeskPins](https://github.com/thewhitegrizzli/DeskPins)<br>[WindowTop-App](https://github.com/WindowTop/WindowTop-App) |
 
@@ -34,6 +36,7 @@
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
 | [【开源代码】CubeWorld｜Unity教程，从安装到打开一个Github项目（以我的世界（仿）为例）](https://blog.csdn.net/qq_46106285/article/details/153692737) | [CubeWorld](https://github.com/federicodangelo/CubeWorld) |
+| [【工具】DeepWiki Devin｜DeepWiki-open｜自动为代码仓库生成文档](https://shandianchengzi.blog.csdn.net/article/details/156487886) | [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) |
 | [【开源代码】cProfile+pstats｜Python分析代码运行时间](https://shandianchengzi.blog.csdn.net/article/details/152814545) | pypi的库 |
 | [【开源工具】VS Code Counter｜Github一键统计代码行数工具](https://shandianchengzi.blog.csdn.net/article/details/134198765) | [vscode-counter](https://github.com/uctakeoff/vscode-counter) |
 | [【开源工具】fanyi｜Vscode翻译插件推荐（无需浏览器）](https://shandianchengzi.blog.csdn.net/article/details/127190042) | [fanyi](https://github.com/wangrongding/fanyi) |
@@ -59,6 +62,19 @@
 | [【开源工具】LLM Paper Web Reader｜接入本地大模型让论文阅读更轻盈的开源小工具](https://shandianchengzi.blog.csdn.net/article/details/151407624) | [llmreadpaper](https://github.com/shandianchengzi/llmreadpaper) |
 | [【开源工具】LLM-GenPaper｜本地LLM写作辅助工具（脑洞向自研）](https://shandianchengzi.blog.csdn.net/article/details/148384708) | [LLM_Generate_Paper](https://github.com/shandianchengzi/LLM_Generate_Paper) |
 
+### 🎬 音视频与拍摄工具
+
+| 博客文章 / 工具介绍 | 开源地址 |
+| :--- | :--- |
+| [【开源自制工具】Cut Player｜支持波形定位和原码流导出的 Windows 分段播放器](https://shandianchengzi.blog.csdn.net/article/details/167817483) | [cut-player](https://github.com/shandianchengzi/cut-player) |
+| [【开源自制工具】演唱会取景器｜计算放大倍数、裁切像素和手机镜头选择](https://shandianchengzi.blog.csdn.net/article/details/167815456) | [camera-translator](https://github.com/shandianchengzi/camera-translator) |
+
+### 🗂️ 办公与文件处理
+
+| 博客文章 / 工具介绍 | 开源地址 |
+| :--- | :--- |
+| [【开源工具】飞书多维表格插件｜批量导出附件并自定义名称](https://shandianchengzi.blog.csdn.net/article/details/165127374) | [feishu-file-export](https://github.com/shandianchengzi/feishu-file-export) |
+
 ### 🎓 学术科研与文献处理
 
 | 博客文章 / 工具介绍 | 开源地址 |
@@ -73,6 +89,7 @@
 | 博客文章 / 工具介绍 | 开源地址 |
 | :--- | :--- |
 | [【开源工具】CSDN_qc_show｜CSDN文章编辑界面增加查询CSDN质量分的按钮](https://shandianchengzi.blog.csdn.net/article/details/138357755) | [CSDN_qc_show](https://github.com/shandianchengzi/CSDN_qc_show) |
+| [【开源工具】bilibili-analyze｜油猴脚本导出 B 站投稿列表与视频章节](https://shandianchengzi.blog.csdn.net/article/details/167085231) | [bilibili-analyze](https://github.com/shandianchengzi/bilibili-analyze) |
 | [【开源工具】BiliFocus｜用JS脚本限制自己刷b站](https://shandianchengzi.blog.csdn.net/article/details/134913502) | [BiliFocus](https://github.com/shandianchengzi/BiliFocus) |
 | [【开源工具】任意视频倍速播放｜JS脚本网页任意视频倍速播放](https://shandianchengzi.blog.csdn.net/article/details/128323153) | [JS_any_video_speed_change](https://github.com/shandianchengzi/JS_any_video_speed_change) |
 | [【开源代码】remove_comment_in_quicker｜用 Quicker 去除 Python 注释](https://shandianchengzi.blog.csdn.net/article/details/144809494) | [remove_comment_in_quicker](https://github.com/shandianchengzi/remove_comment_in_quicker) |
